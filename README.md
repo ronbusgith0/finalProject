@@ -1,8 +1,6 @@
-# React + Vite
+For our final project we decided on making a favorite music website. This would be based on our first project in our fullstack development class with everything we have learned up until now. We have each taken part and split up the work where Ron and Omar did the backend and Alexander and Brandon did the frontend.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Near the end we would come together and try to work on the whole project itself. Even Though we were not able to run the app properly for now we will continue to work on it in the future. This group might have been pretty big compared to the usual work of a pair but it was an experience on what the field would have to offer. 
 
-Currently, two official plugins are available:
+Thank you Professor for everything you have taught us!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
