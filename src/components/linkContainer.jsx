@@ -24,4 +24,4 @@ function LinkContainer() {
     )
 }
 
-export defau
+export default LinkContainer;
